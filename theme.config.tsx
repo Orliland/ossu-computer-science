@@ -1,18 +1,18 @@
-import React from 'react'
-import { DocsThemeConfig } from 'nextra-theme-docs'
+import React from "react";
+import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
-  logo: <span>My Project</span>,
+  logo: <strong>OSSU Computer Science</strong>,
   project: {
-    link: 'https://github.com/shuding/nextra-docs-template',
+    link: "https://github.com/ossu/computer-science",
   },
   chat: {
-    link: 'https://discord.com',
+    link: "https://discord.gg/wuytwK5s9h",
   },
-  docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
+  docsRepositoryBase: "https://github.com/ossu/computer-science",
   footer: {
-    text: 'Nextra Docs Template',
+    text: "🎓 Path to a free self-taught education in Computer Science!",
   },
-}
+};
 
-export default config
+export default config;
