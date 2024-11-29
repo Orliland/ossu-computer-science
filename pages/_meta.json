@@ -1,8 +1,4 @@
 {
-  "index": "Welcome",
-  "faq": "FAQ",
-  "about": {
-    "title": "About",
-    "type": "page"
-  }
+  "index": "Curriculum",
+  "faq": "FAQ"
 }
