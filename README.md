@@ -1,16 +1,12 @@
-# Nextra Docs Template
+# OSSU Computer Science
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
+This project aims to create a more user-friendly version of the Computer Science curriculum created by [OSSU](https://github.com/ossu/computer-science), so that more users can access it and reduce the dropout rate by self-taught students.
 
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
+## Next steps
 
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
+- [ ] Create a landing page for new students to learn about the project, its objectives and benefits.
+- [ ] [Nextra Remote Docs Support](https://the-guild.dev/blog/nextra-3#remote-docs-support) Implement remote document reading to ensure that the curriculum is always updated to the latest version of the official repository.
+- [ ] Integrate progress tracking system with authentication, maybe something like [JavaScript.info](https://javascript.info) tutorial map.
 
 ## Local Development
 
