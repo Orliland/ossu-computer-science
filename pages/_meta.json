@@ -1,4 +1,10 @@
 {
   "index": "Curriculum",
-  "faq": "FAQ"
+  "faq": "FAQ",
+  "extras": "Extras",
+  "analytics": {
+    "title": "Analytics ↗",
+    "href": "https://dashboard.simpleanalytics.com/ossu-computer-science.vercel.app",
+    "newWindow": true
+  }
 }
