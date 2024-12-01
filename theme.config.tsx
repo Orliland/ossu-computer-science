@@ -8,6 +8,21 @@ const config: DocsThemeConfig = {
       <link rel="shortcut icon" href="/favicon.png" type="image/png" />
     </>
   ),
+  banner: {
+    key: "1.0-version",
+    text: (
+      <div className="py-4">
+        To see the latest version of the curriculum, please visit the official
+        &nbsp;
+        <a
+          className="underline font-bold"
+          href="https://github.com/ossu/computer-science"
+        >
+          <strong>OSSU repository.</strong>
+        </a>
+      </div>
+    ),
+  },
   logo: <strong>OSSU Computer Science</strong>,
   project: {
     link: "https://github.com/ossu/computer-science",

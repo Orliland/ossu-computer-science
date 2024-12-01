@@ -5,7 +5,6 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <Component {...pageProps} />
-
       <script
         async
         src="https://scripts.simpleanalyticscdn.com/latest.js"
