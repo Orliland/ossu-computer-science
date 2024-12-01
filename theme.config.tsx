@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: "https://discord.gg/wuytwK5s9h",
   },
-  docsRepositoryBase: "https://github.com/ossu/computer-science",
+  docsRepositoryBase: "https://github.com/Orliland/ossu-computer-science",
   footer: {
     text: "🎓 Path to a free self-taught education in Computer Science!",
   },
