@@ -4,6 +4,7 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 const config: DocsThemeConfig = {
   head: (
     <>
+      <title>OSSU Computer Science</title>
       <link rel="shortcut icon" href="/favicon.png" type="image/png" />
     </>
   ),
