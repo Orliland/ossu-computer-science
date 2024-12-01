@@ -3,6 +3,11 @@ import { DocsThemeConfig } from "nextra-theme-docs";
 
 const config: DocsThemeConfig = {
   logo: <strong>OSSU Computer Science</strong>,
+  head: (
+    <>
+      <link rel="shortcut icon" href="/favicon.png" type="image/png" />
+    </>
+  ),
   project: {
     link: "https://github.com/ossu/computer-science",
   },
